@@ -1,2 +1,3 @@
 # theme: jekyll-theme-tactile
-remote_theme: yizeng/jekyll-theme-simple-texture
+# remote_theme: yizeng/jekyll-theme-simple-texture
+remote_theme: broccolini/swiss
